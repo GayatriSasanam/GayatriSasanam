@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @GayatriSasanam
 - 👀 I’m interested in exploring new thing.
-- 🌱 I’m currently learning Salesforce.
+- 🌱 Working as a salesforce developer
+- Certified Salesfoce B2C developer
 - 📫 Reach me @sasanam.gayatri5@gmail.com
 
 <!---
